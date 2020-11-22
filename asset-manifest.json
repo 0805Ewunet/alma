@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/0805Ewunet/alma/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/0805Ewunet/alma/static/js/main.09adfd45.chunk.js",
+    "main.js.map": "/0805Ewunet/alma/static/js/main.09adfd45.chunk.js.map",
+    "runtime-main.js": "/0805Ewunet/alma/static/js/runtime-main.5e9d1b4a.js",
+    "runtime-main.js.map": "/0805Ewunet/alma/static/js/runtime-main.5e9d1b4a.js.map",
+    "static/js/2.7d6b5ce4.chunk.js": "/0805Ewunet/alma/static/js/2.7d6b5ce4.chunk.js",
+    "static/js/2.7d6b5ce4.chunk.js.map": "/0805Ewunet/alma/static/js/2.7d6b5ce4.chunk.js.map",
+    "static/js/3.faa0efb1.chunk.js": "/0805Ewunet/alma/static/js/3.faa0efb1.chunk.js",
+    "static/js/3.faa0efb1.chunk.js.map": "/0805Ewunet/alma/static/js/3.faa0efb1.chunk.js.map",
+    "index.html": "/0805Ewunet/alma/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/0805Ewunet/alma/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7d6b5ce4.chunk.js.LICENSE.txt": "/0805Ewunet/alma/static/js/2.7d6b5ce4.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/0805Ewunet/alma/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e9d1b4a.js",
+    "static/js/2.7d6b5ce4.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.09adfd45.chunk.js"
+  ]
+}
